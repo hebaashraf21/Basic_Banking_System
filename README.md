@@ -1,7 +1,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Packages i used](#packages)
+- [Packages used](#packages)
 - [ScreenShots from the app](#screen-shots)
 - [Demo vedio](#demo_vedio)
 - [Contributors](#Contributors)
