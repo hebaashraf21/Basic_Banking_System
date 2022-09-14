@@ -9,7 +9,7 @@
 ## About <a name = "about"></a>
 - Basic_Banking_Sysyem created in Flutter based on BLoC state management & sqflite(database).The project is done as a part of The Sparks Foundation Internship GRIPSEPTEMPER22.
 
-## Packages i used: <a name="packages"></a>
+## Packages used: <a name="packages"></a>
   - hexcolor: ^2.0.7
   - loading_indicator: ^3.1.0
   - flutter_awesome_buttons: ^1.1.0
