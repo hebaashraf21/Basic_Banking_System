@@ -1,4 +1,4 @@
-# sparks_bank
+# Sparks Bank
 
 ## 📝 Table of Contents
 
