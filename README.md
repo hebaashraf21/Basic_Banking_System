@@ -29,7 +29,7 @@
 ![collage (7)](https://user-images.githubusercontent.com/90224487/190400055-dc48d44f-759e-4f5d-9093-55872de6a936.jpg)
 ![collage (8)](https://user-images.githubusercontent.com/90224487/190400115-eab0dd51-b0ec-4dfd-b786-dfc45456ea9d.jpg)
 
-## Demo vedio <a name = "demo_vedio"></a>
+## Demo video <a name = "demo_vedio"></a>
 https://youtu.be/T3khZ289B6w
 
 ## Contributors <a name = "Contributors"></a>
