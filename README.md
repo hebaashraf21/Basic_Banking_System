@@ -34,14 +34,9 @@ https://youtu.be/T3khZ289B6w
 
 ## Contributors <a name = "Contributors"></a>
 
-<table>
+<table  >
   <tr>
-    <td align="center">
-    <a href="https://github.com/hebaashraf21.png" target="_black">
-    <img src="" width="150px;" alt="Heba Ashraf"/>
-    <br />
-    <sub><b>Heba Ashraf</b></sub></a>
-    
+     <td ><a href="https://github.com/hebaashraf21"><img src="https://github.com/hebaashraf21.png" width="150px;" alt=""/><br /><sub><b>Heba Ashraf</b></sub></a><br /></td>
   </tr>
- </table>
+</table>
 
